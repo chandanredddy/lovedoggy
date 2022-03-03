@@ -1,0 +1,142 @@
+body{
+  font-family: "Montserrat";
+}
+#title{
+  background-color:#ff4768;
+  color:#fff;
+  padding-top: 0% !important;
+}
+.container-fluid{
+  padding-left: 15rem;
+}
+.dogstyle{
+  padding-top: 0%;
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-bottom: 0%;
+  }
+.btn-dark {
+
+  background-color: #212529;
+  border-color: #212529;
+}
+.navbar{
+  padding-bottom: 4.5rem !important;
+}
+
+h1{
+  font-family: 'Montserrat-black';
+  padding-top:4.5rem 0 0 0 ;
+
+  font-size: 3rem;
+  line-height: 1.5;
+}
+p{
+  color: #8f8f8f;
+}
+
+
+}
+.navbar-brand{
+  font-family: "Ubuntu";
+  width:2.5rem !important ;
+  font-size: 3.15rem !important;
+  font-weight:  bold !important;
+}
+.nav-item{
+  padding-left: 18px;
+  padding-right: 18px;
+}
+.dogimage{
+  padding-top:40% 0 30% 0%;
+  width: 80%;
+  transform: rotate(25deg);
+}
+@media (min-width:500px) {
+
+  .dogimage{
+    padding-top: 30%;
+
+  }
+
+}
+.icons{
+  text-align: center;
+  padding-top: 10px;
+}
+
+.fa-solid{
+  color: #efb172;
+  size:1.5rem;
+  padding-bottom:2rem;
+  padding-left:30px;
+}
+.fa-solid:hover{
+  color:#ff4c88;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600 !important;
+}
+.container-fluid{
+  padding: 10% 15% 15% 15% !important;
+  font-size: 1.5rem !important;
+}
+/* testimonials */
+#testimonials{
+  background-color: #efb172;
+  padding:7% 15%;
+  text-align: center;
+  font-weight: 600;
+  color:#fff;
+}
+.testimonial-image{
+  width: 15%;
+  border-radius:100%;
+  margin: 20px;
+}
+#press{
+  background-color: #efb172;
+  text-align: center;
+  padding-bottom:3%;
+}
+.press-image{
+  width: 15%;
+  margin: 20px;
+}
+.cards1{
+  padding-bottom: 2.5rem !important;
+}
+.cards2{
+  padding-bottom: 2.5rem;
+}
+.cards3{
+  padding-bottom:0rem!important;
+}
+.container{
+  padding:2rem 2rem 2rem 2rem;
+}
+#features{
+  background-color: #fff;
+  position: relative;
+
+}
+#cta{
+  text-align: center;
+  background-color:#ff4768;
+}
+.enddivison{
+  padding:10% 0 10% 0 ;
+}
+.ending{
+  color: white;
+  padding-bottom: 10px;:
+}
+.chandans{
+  padding-top: 10%;
+}
+.Copyright{
+  padding: 20px;
+  text-align: center;
+
+}
